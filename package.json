@@ -92,7 +92,7 @@
     "json-schema-ref-parser": "^6.1.0",
     "jsonwebtoken": "^8.5.0",
     "jsx": "^0.9.89",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lunr": "2.3.6",
     "mark.js": "^8.11.1",
     "marked": "0.5.2",
