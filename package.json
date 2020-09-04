@@ -95,7 +95,7 @@
     "lodash": "^4.17.11",
     "lunr": "2.3.6",
     "mark.js": "^8.11.1",
-    "marked": "0.5.2",
+    "marked": "1.1.1",
     "memoize-one": "^5.0.0",
     "mobx": "^5.9.0",
     "mobx-react-devtools": "^6.1.1",
