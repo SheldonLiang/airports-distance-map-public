@@ -100,7 +100,7 @@
     "mobx": "^5.9.0",
     "mobx-react-devtools": "^6.1.1",
     "morgan": "^1.9.1",
-    "next": "^8.0.3",
+    "next": "^11.1.0",
     "node-fetch": "^2.3.0",
     "normalize": "^0.3.1",
     "normalize.css": "^8.0.1",
