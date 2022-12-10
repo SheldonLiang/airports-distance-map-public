@@ -74,7 +74,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4",
     "eventemitter3": "^3.1.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fetch-mock": "^7.3.1",
     "file-saver": "^2.0.1",
     "formik": "^1.5.1",
